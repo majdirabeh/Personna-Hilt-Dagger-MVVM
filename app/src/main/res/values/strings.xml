@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Personna-Hilt-Dagger-MVVM</string>
+    <string name="no_data">Something went wrong</string>
+    <string name="no_internet">No Internet Connexion</string>
+</resources>
